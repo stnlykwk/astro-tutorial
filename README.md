@@ -1,4 +1,8 @@
-# Astro Starter Kit: Minimal
+# Astro Tutorial Project
+
+### Deployed to [Cloudflare Pages](https://astro-tutorial-bjh.pages.dev)
+
+## Astro Starter Kit: Minimal
 
 ```sh
 npm create astro@latest -- --template minimal
